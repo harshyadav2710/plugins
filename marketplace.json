@@ -1,17 +1,9 @@
 {
   "name": "askcruz-marketplace",
-  "description": "Internal marketplace for AskCruz plugins",
-  "version": "1.0.0",
-  "owner": {
-    "name": "Internal Team",
-    "email": "support@askcruz.com",
-    "url": "https://askcruz.com"
-  },
   "plugins": [
     {
       "name": "askcruz-integration",
       "description": "Connects to the AskCruz MCP server and provides HR rules.",
-      "version": "1.0.0",
       "path": "."
     }
   ]
