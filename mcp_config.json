@@ -3,7 +3,7 @@
     "askcruz": {
       "transport": {
         "type": "sse",
-        "url": "https://mcp.askcruz.com/internal-team/mcp/sse",
+        "url": "https://mcp.askcruz.com/hr/mcp/sse",
         "headers": {
           "x-auth-token": "REPLACE_WITH_YOUR_TOKEN"
         }
