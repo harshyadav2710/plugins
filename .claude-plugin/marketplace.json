@@ -1,0 +1,16 @@
+{
+  "name": "askcruz-marketplace",
+  "description": "Internal marketplace for AskCruz plugins",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Internal Team"
+  },
+  "plugins": [
+    {
+      "name": "askcruz-integration",
+      "description": "Connects to the AskCruz MCP server and provides HR rules for interacting with sensitive employee data.",
+      "version": "1.0.0",
+      "repository": "https://github.com/harshyadav2710/plugins"
+    }
+  ]
+}
