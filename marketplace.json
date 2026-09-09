@@ -1,12 +1,11 @@
 {
   "name": "askcruz-marketplace",
-  "version": "1.0.0",
+  "description": "AskCruz Plugins",
   "plugins": [
     {
       "name": "askcruz-integration",
       "description": "Connects to the AskCruz MCP server and provides HR rules.",
-      "version": "1.0.0",
-      "path": ".claude-plugin"
+      "version": "1.0.0"
     }
   ]
 }
