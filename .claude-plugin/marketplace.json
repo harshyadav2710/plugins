@@ -12,7 +12,7 @@
       "name": "askcruz-integration",
       "description": "Connects to the AskCruz MCP server and provides HR rules.",
       "version": "1.0.0",
-      "repository": "https://github.com/harshyadav2710/plugins.git"
+      "path": "."
     }
   ]
 }
