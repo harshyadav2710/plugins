@@ -1,8 +1,0 @@
-{
-  "name": "askcruz-integration",
-  "version": "1.0.0",
-  "description": "Connects to the AskCruz MCP server and provides HR rules for interacting with sensitive employee data.",
-  "author": {
-    "name": "Internal Team"
-  }
-}
